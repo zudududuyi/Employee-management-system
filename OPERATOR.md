@@ -1,0 +1,15 @@
+# Employee-management-system
+The employee management system based on C++ realizes the functions of adding, deleting, modifying and checking.
+![image](https://github.com/user-attachments/assets/3ed8329e-ffa0-4b79-95fe-8c4fe1b87cc2)
+![image](https://github.com/user-attachments/assets/deeb1ed9-056f-435e-beff-6af639948daa)
+![image](https://github.com/user-attachments/assets/a1fca9e0-7d13-4fed-83ca-d173be92e178)
+![image](https://github.com/user-attachments/assets/f8824c49-8fe1-4efa-a9b8-3d024995a3e3)
+![image](https://github.com/user-attachments/assets/8778c77a-2b3b-4826-8951-036f826ca10a)
+![image](https://github.com/user-attachments/assets/8b2b014a-224c-4e21-ba02-70edea96d4e6)
+![image](https://github.com/user-attachments/assets/f0aca04f-0601-46be-909c-e760af5c1da8)
+![image](https://github.com/user-attachments/assets/aeb0a5d5-7c86-4224-af7c-264200740344)
+![image](https://github.com/user-attachments/assets/3723fc9e-ece7-4dbd-8f08-e1e2a9e61c2d)
+![image](https://github.com/user-attachments/assets/0f5eee6c-8ab4-4541-98a0-de199e2a931a)
+![image](https://github.com/user-attachments/assets/3c4bd766-0a7b-423b-88f0-747065a4fab9)
+![image](https://github.com/user-attachments/assets/33453f17-ca6e-499d-8f39-9a459f146dc6)
+![image](https://github.com/user-attachments/assets/92247fe0-b8c2-49af-8e58-6a9116dac29b)
